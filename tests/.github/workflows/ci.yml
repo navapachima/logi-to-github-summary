@@ -1,5 +1,5 @@
 ci,yml
-name: Tests
+name: CI-Tests
 
 
 on:
